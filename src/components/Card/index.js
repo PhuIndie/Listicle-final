@@ -20,4 +20,4 @@ function Card({ title, subtitle = 'Default title', onClick, onActionClick, image
     )
 }
 
-export default Card;
+export default Card;   
